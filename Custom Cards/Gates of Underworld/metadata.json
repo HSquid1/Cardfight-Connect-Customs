@@ -1,0 +1,145 @@
+{
+  "baseIndex": 5299751,
+  "cards": [
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 0,
+      "drive": 0,
+      "clan": [],
+      "effect": "[CONT]:You may only have up to two \"Breaching the Gates of the Underworld\" in a deck.\n[ACT](Order Zone): [COST][Soul-Blast 3] choose a unit card from your soul with grade less or equal to your vanguard and call it to (RC). It gets \"[CONT](RC): When this card would leave (RC), bind it instead\".\n[AUTO](Order Zone): At the end of your turn, bind this card.",
+      "gift": "",
+      "giftBonus": "",
+      "grade": 2,
+      "id": "breachingthegatesoftheunderworld",
+      "index": 0,
+      "jpMode": false,
+      "name": "Breaching the Gates of the Underworld",
+      "nation": [
+        "Dark States"
+      ],
+      "power": 0,
+      "race": [],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 0,
+      "skill": [],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Set Order",
+      "zoneInfo": "010",
+      "actionFlags": [],
+      "cImage": ""
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[AUTO]: When this unit is rode upon by (get \"[G2]\" ), search your deck for a \"Breaching the Gates of the Underworld\" and add it to your hand.\n[AUTO](RC): When this unit boosts, it gets [Power]+2000 until the end of that battle, and at the end of that battle, COST [Soul-Blast 2 and put this unit into soul], and draw a card.",
+      "gift": "",
+      "giftBonus": "",
+      "grade": 1,
+      "id": "g1",
+      "index": 1,
+      "jpMode": false,
+      "name": "g1",
+      "nation": [
+        "Dark States"
+      ],
+      "power": 8000,
+      "race": [
+        "Demon"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [
+        "Boost"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "cImage": ""
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[AUTO]: When this unit is rode upon by (get \"[G3]\" ), [Soul-Charge 2], choose up to one grade 2 or less unit card from your soul and call it to (RC).\n[AUTO](RC): When this unit attacks, you may have it gain [Power]+5000 until the end of that battle. If you do, at the end of that battle, put this card into soul, and if you have a vanguard with (get \"[G3]\" ) in its card name, choose a card from your drop and put it into soul.",
+      "gift": "",
+      "giftBonus": "",
+      "grade": 2,
+      "id": "g2",
+      "index": 2,
+      "jpMode": false,
+      "name": "g2",
+      "nation": [
+        "Dark States"
+      ],
+      "power": 10000,
+      "race": [
+        "Demon"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [
+        "Intercept"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "cImage": ""
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 2,
+      "clan": [],
+      "effect": "[ACT](VC)[1/Turn]: If you did not play an order this turn [COST][Counter-Blast 1 & Discard a card] choose a \"Breaching the Gates of the Underworld\" in your bind zone, and play it.\n[AUTO](VC):",
+      "gift": "",
+      "giftBonus": "",
+      "grade": 3,
+      "id": "g3",
+      "index": 3,
+      "jpMode": false,
+      "name": "g3",
+      "nation": [
+        "Dark States"
+      ],
+      "power": 13000,
+      "race": [
+        "Demon"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 0,
+      "skill": [
+        "Persona Ride"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "cImage": ""
+    }
+  ]
+}
