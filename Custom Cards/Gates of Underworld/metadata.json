@@ -7,7 +7,7 @@
       "critical": 0,
       "drive": 0,
       "clan": [],
-      "effect": "[CONT]:You may only have up to two \"Breaching the Gates of the Underworld\" in a deck.\n[ACT](Order Zone): [COST][Soul-Blast 3] choose a unit card from your soul with grade less or equal to your vanguard and call it to (RC). It gets \"[CONT](RC): When this card would leave (RC), bind it instead\".\n[AUTO](Order Zone): At the end of your turn, bind this card.",
+      "effect": "[CONT]:You may only have up to two \"Breaching the Gates of the Underworld\" in a deck.\n[ACT](Order Zone): [COST][Soul-Blast 3] choose a unit card from your soul with grade less or equal to your vanguard and call it to (RC). It gets \"[CONT](RC): When this card would leave (RC), bind it instead\" and \"[AUTO](RC): At the end of your turn, bind this unit\".\n[AUTO](Order Zone): At the end of your turn, bind this card.",
       "gift": "",
       "giftBonus": "",
       "grade": 2,
@@ -111,7 +111,7 @@
       "critical": 1,
       "drive": 2,
       "clan": [],
-      "effect": "[ACT](VC)[1/Turn]: If you did not play an order this turn [COST][Counter-Blast 1 & Discard a card] choose a \"Breaching the Gates of the Underworld\" in your bind zone, and play it.\n[AUTO](VC):",
+      "effect": "[ACT](VC)[1/Turn]: If you did not play an order this turn [COST][Energy-Blast 3 & Put a card from hand into soul] choose a \"Breaching the Gates of the Underworld\" in your bind zone, and play it.\n[AUTO](VC): When this unit attacks, [COST][Counter-Blast 1 & Bind one or two rear guards], call the cards bound this way to (RC).",
       "gift": "",
       "giftBonus": "",
       "grade": 3,
@@ -123,6 +123,78 @@
         "Dark States"
       ],
       "power": 13000,
+      "race": [
+        "Demon"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 0,
+      "skill": [
+        "Persona Ride"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "cImage": ""
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[CONT]: This card can't be ridden and can't be called to (RC) except from soul.\n[CONT](RC/GC): If you have a vanguard with (gets \"archetype\" ) in its card name this unit gets [Shield]+5000, then if your opponent's vanguard is grade 3, it also gets [Power]+5000.\n[AUTO]: When this unit is placed on (RC), [COST][Put a card from hand into soul] and draw a card.",
+      "gift": "",
+      "giftBonus": "",
+      "grade": 2,
+      "id": "g2rear",
+      "index": 4,
+      "jpMode": false,
+      "name": "G2 Rear",
+      "nation": [
+        "Dark States"
+      ],
+      "power": 15000,
+      "race": [
+        "Demon"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [
+        "Intercept"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "cImage": ""
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 2,
+      "clan": [],
+      "effect": "[CONT]: This card can't be ridden and can't be called except from soul.\n[AUTO](RC): When this unit is placed on (RC), choose a card from drop and put it into soul.\n[AUTO](RC)[1/Turn]: When this unit attacks, if you have a vanguard with (gets \"archetype\" ) it gets [Power]+5000 until end of turn then if this unit was placed from bind zone and no drive checks were performed for the battles your rear-guards attacked this turn, [COST][Counter-Blast 1], this unit performs drive checks for this battle and it gets drive-1. Then if your opponent is grade 3 or greater, [COST][Energy-Blast 3 & put a card from hand into soul] and it gets drive+1.",
+      "gift": "",
+      "giftBonus": "",
+      "grade": 3,
+      "id": "g3rear",
+      "index": 5,
+      "jpMode": false,
+      "name": "G3 Rear",
+      "nation": [
+        "Dark States"
+      ],
+      "power": 15000,
       "race": [
         "Demon"
       ],
