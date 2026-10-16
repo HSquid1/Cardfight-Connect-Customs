@@ -79,7 +79,7 @@
       "clan": [],
       "effect": "[AUTO]:When this unit is placed by riding from \"Passing Through the Twilight, Feltyrosa\", [COST][reveal a \"Rondo of Moonlit Night, Feltyrosa\" from the ride deck], look at the top seven cards of your deck, choose up to one non-sentinel <Ghost> unit card from among them, reveal it and put it into hand, and shuffle the deck.\n[CONT](RC):If you have a vanguard with \"Feltyrosa\" in its card name, this unit gets [Power]+2000 (Active on opponent's turn too)",
       "gift": "",
-      "grade": 1,
+      "grade": 2,
       "id": "phantombeautyfeltyrosa",
       "index": 2,
       "jpMode": false,
@@ -87,7 +87,7 @@
       "nation": [
         "Lyrical Monasterio"
       ],
-      "power": 8000,
+      "power": 10000,
       "race": [
         "Vampire"
       ],
@@ -97,7 +97,7 @@
       "rotate": false,
       "shield": 5000,
       "skill": [
-        "Boost"
+        "Intercept"
       ],
       "strideline": "",
       "toolbox": [],
