@@ -286,6 +286,44 @@
       "actionFlags": [],
       "abilityFlags": [],
       "cImage": "Walking the Evening Party Together, Crescents.png"
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[AUTO]:When this unit is placed on (RC), [COST][Energy Blast (3)], search your deck for up to one \"Masque of Hydragrum\", reveal it and put it into hand, and shuffle the deck.\n[ACT](RC):[COST][Counter Blast (1) & bind this unit], choose one of your (RC) without any Dragontree markers, and put a Dragontree marker. Look at the top seven cards of your deck, choose up to one card with \"Masques\" or \"Griphogila\" in its card name from among them, reveal it and put it into hand, and shuffle the deck. When you would look at the deck by this ability, if your bind zone has one or less cards with the same card name as this card, look at all of the cards instead of seven cards.",
+      "gift": "",
+      "grade": 2,
+      "id": "dragontreewretchbioiweleth",
+      "index": 8,
+      "jpMode": false,
+      "name": "Dragontree Wretch, Bio Iweleth",
+      "nation": [
+        "Stoicheia"
+      ],
+      "power": 10000,
+      "race": [
+        "Henri"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [
+        "Intercept"
+      ],
+      "strideline": "",
+      "toolbox": [
+        4360
+      ],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": "Dragontree Wretch, Bio Iweleth.png"
     }
   ]
 }
