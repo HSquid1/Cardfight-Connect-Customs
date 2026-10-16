@@ -1,0 +1,291 @@
+{
+  "baseIndex": 9942287,
+  "cards": [
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[AUTO]:When this unit is rode upon, if you went second, draw a card.",
+      "gift": "",
+      "grade": 0,
+      "id": "passingthroughthetwilightfeltyrosa",
+      "index": 0,
+      "jpMode": false,
+      "name": "Passing Through the Twilight, Feltyrosa",
+      "nation": [
+        "Lyrical Monasterio"
+      ],
+      "power": 6000,
+      "race": [
+        "Vampire"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": "Passing Through the Twilight, Feltyrosa.png"
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[AUTO]:When this unit is placed by riding from \"Passing Through the Twilight, Feltyrosa\", [COST][reveal a \"Rondo of Moonlit Night, Feltyrosa\" from the ride deck], look at the top seven cards of your deck, choose up to one non-sentinel <Ghost> unit card from among them, reveal it and put it into hand, and shuffle the deck.\n[CONT](RC):If you have a vanguard with \"Feltyrosa\" in its card name, this unit gets [Power]+2000 (Active on opponent's turn too)",
+      "gift": "",
+      "grade": 1,
+      "id": "invitationtotheeveningpartyfeltyrosa",
+      "index": 1,
+      "jpMode": false,
+      "name": "Invitation to the Evening Party, Feltyrosa",
+      "nation": [
+        "Lyrical Monasterio"
+      ],
+      "power": 8000,
+      "race": [
+        "Vampire"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [
+        "Boost"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": "Invitation to the Evening Party, Feltyrosa.png"
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[AUTO]:When this unit is placed by riding from \"Passing Through the Twilight, Feltyrosa\", [COST][reveal a \"Rondo of Moonlit Night, Feltyrosa\" from the ride deck], look at the top seven cards of your deck, choose up to one non-sentinel <Ghost> unit card from among them, reveal it and put it into hand, and shuffle the deck.\n[CONT](RC):If you have a vanguard with \"Feltyrosa\" in its card name, this unit gets [Power]+2000 (Active on opponent's turn too)",
+      "gift": "",
+      "grade": 1,
+      "id": "phantombeautyfeltyrosa",
+      "index": 2,
+      "jpMode": false,
+      "name": "Phantom Beauty, Feltyrosa",
+      "nation": [
+        "Lyrical Monasterio"
+      ],
+      "power": 8000,
+      "race": [
+        "Vampire"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [
+        "Boost"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": "Phantom Beauty, Feltyrosa.png"
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 2,
+      "clan": [],
+      "effect": "[CONT](VC):During your turn, all of your front row <Vampire> or <Ghost> units get [Power]+5000.\n[ACT](VC)[1/Turn]:[COST][Counter Blast (1)], and until end of turn, this unit gets \"[AUTO](VC)[1/Turn]:When your drive check reveals a <Ghost> normal unit or a grade 3 with \"Feltyrosa\" in its card name, you may call that card to an open (RC). If you called a card, that unit gets [Power]+5000 until end of turn. Then, if you called two or less units by this ability this turn, this unit gets drive+1 until end of turn.\" thrice.\n[AUTO]:When this unit is placed on (RC) by the ability of your unit with \"Feltyrosa\" in its card name during your battle phase, [COST][Soul Blast (1)], and return this unit to hand.",
+      "gift": "",
+      "grade": 3,
+      "id": "rondoofmoonlitnightfeltyrosa",
+      "index": 3,
+      "jpMode": false,
+      "name": "Rondo of Moonlit Night, Feltyrosa",
+      "nation": [
+        "Lyrical Monasterio"
+      ],
+      "power": 13000,
+      "race": [
+        "Vampire"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 0,
+      "skill": [
+        "Persona Ride"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": ""
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 2,
+      "clan": [],
+      "effect": "[AUTO]:When this card is revealed during your drive check, if you have a grade 3 or greater vanguard with \"Feltyrosa\" in its card name, choose up to one front row grade 1 or less <Ghost> unit, and move it to an open (RC) in the same column as that unit.\n[AUTO](RC):When this unit attacks, if you have a grade 3 or greater vanguard with \"Feltyrosa\" in its card name, you may have this unit get [Power]+10000 until that battle ends. If you do, at the end of that battle, put this unit to the bottom of the deck.",
+      "gift": "",
+      "grade": 3,
+      "id": "happinessclosebyantonia",
+      "index": 4,
+      "jpMode": false,
+      "name": "Happiness Close By, Antonia",
+      "nation": [
+        "Lyrical Monasterio"
+      ],
+      "power": 13000,
+      "race": [
+        "Ghost"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 0,
+      "skill": [
+        "Persona Ride"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": "Happiness Close By, Antonia.png"
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[AUTO]:When this unit is placed on a front row (RC) by the ability of your vanguard with \"Feltyrosa\" in its card name during your battle phase, this unit gets [Power]+10000 until end of turn.\n[AUTO](RC):At the end of the battle this unit boosted a <Ghost> rear-guard, if you have a vanguard with \"Feltyrosa\" in its card name, [COST][retire two rear-guards in the same column as this unit], and draw a card.",
+      "gift": "",
+      "grade": 1,
+      "id": "marchinthedeadofnightherta",
+      "index": 5,
+      "jpMode": false,
+      "name": "March in the Dead of Night, Herta",
+      "nation": [
+        "Lyrical Monasterio"
+      ],
+      "power": 8000,
+      "race": [
+        "Ghost"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [
+        "Boost"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": "March in the Dead of Night, Herta.png"
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[CONT]:If you have a vanguard without \"Feltyrosa\" in its card name, this card cannot be called. (Cannot be called to (GC) as well)\n[CONT](RC/GC):This unit gets [Power]+5000/[Shield]+5000. (Active on opponent's turn too)\n[AUTO](RC):When this unit attacks, you may have this unit get [Power]+5000 until end of that battle. If you do, at the end of that battle, retire this unit.\n[ACT](Drop):If you have  a grade 3 or greater vanguard with \"Feltyrosa\" in its card name, and all of your rear-guards have different card names from this card, [COST][Soul Blast (1) card with \"Feltyrosa\" in its card name], and call this card to (RC).",
+      "gift": "",
+      "grade": 2,
+      "id": "spreadinglovesrecitativefiene",
+      "index": 6,
+      "jpMode": false,
+      "name": "Spreading Love's Recitative, Fiene",
+      "nation": [
+        "Lyrical Monasterio"
+      ],
+      "power": 15000,
+      "race": [
+        "Ghost"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 10000,
+      "skill": [
+        "Intercept"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": "Spreading Love's Recitative, Fiene.png"
+    },
+    {
+      "alias": -1,
+      "count": 4,
+      "critical": 1,
+      "drive": 1,
+      "clan": [],
+      "effect": "[AUTO]:When this unit is placed on (RC), if you have a  vanguard with \"Feltyrosa\" in its card name, [COST][Counter Blast (1)], look at the top card of your deck, and perform one of the following. If your vanguard is grade 3 or greater, this cost can also be paid with [Energy Blast (3)].\n• Put that card into hand.\n• Put that card on top of the of the deck, and this unit gets \"[AUTO](RC):At the end of the battle this unit attacked, put this unit to the bottom of your deck, and at the end of that turn, draw a card.\" until end of turn.\n[AUTO](RC):When this unit attacks, you may have this unit get [Power]+5000 until end of that battle. If you do, at the end of that battle, put this unit on the bottom of your deck. If this unit was placed from deck this turn, it gets [Power]+10000 instead of +5000.",
+      "gift": "",
+      "grade": 2,
+      "id": "walkingtheeveningpartytogethercrescents",
+      "index": 7,
+      "jpMode": false,
+      "name": "Walking the Evening Party Together, Crescents",
+      "nation": [
+        "Lyrical Monasterio"
+      ],
+      "power": 10000,
+      "race": [
+        "Ghost"
+      ],
+      "regulations": [
+        "D"
+      ],
+      "rotate": false,
+      "shield": 5000,
+      "skill": [
+        "Intercept"
+      ],
+      "strideline": "",
+      "toolbox": [],
+      "type": "Normal Unit",
+      "zoneInfo": "110",
+      "actionFlags": [],
+      "abilityFlags": [],
+      "cImage": "Walking the Evening Party Together, Crescents.png"
+    }
+  ]
+}
